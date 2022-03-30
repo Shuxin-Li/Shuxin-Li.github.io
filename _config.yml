@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: XPK's homepage
 description: enjoy today :p
+date: YYYY-MM-DD hh:mm:ss -0000
+layout: post
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
