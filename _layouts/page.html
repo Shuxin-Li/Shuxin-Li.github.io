@@ -140,6 +140,17 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
+                            <!-- 新增bilibili -->
+                            {% if site.bilibili_username %}
+                            <li>
+                                <a target="_blank" href="https://space.bilibili.com/{{ site.bilibili_username }}">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa  fa-stack-1x fa-inverse">bili</i>
+                                    </span>
+                                </a>
+                            </li>
+                            {% endif %}
                             {% if site.weibo_username %}
                             <li>
                                 <a target="_blank" href="http://weibo.com/{{ site.weibo_username }}">
@@ -193,7 +204,7 @@ layout: default
                             <!-- 新增中文leetcode -->
                             {% if site.leetcode_cn_username %}
                             <li>
-                                <a target="_blank" href="https://leetcode-cn.com/{{ site.leetcode_username }}">
+                                <a target="_blank" href="https://leetcode-cn.com/u/{{ site.leetcode_username }}">
                                     <span class="fa-stack fa-lg">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa fa-code fa-stack-1x fa-inverse"></i>
