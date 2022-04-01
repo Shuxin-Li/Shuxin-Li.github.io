@@ -1,0 +1,152 @@
+---
+title: Portfolio
+layout: default
+---
+
+<!DOCTYPE html>
+<html class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Mickey - Timeline</title>
+		<link rel="stylesheet" type="text/css" href="css/timeline.css" />
+		<script src="js/modernizr.custom.js"></script>
+	</head>
+	<body>
+		<div class="container" style="margin:0;padding:0;width:100%;">
+			<header>
+				<img width="175" height="175" style="border-radius:50%;" src="/img/2.jpg">
+				<h1>Mickey</h1>
+				<p>A student major in Web & Mobile,<br>
+					focus on web front-end production</p>
+			</header>
+			<div class="main">
+				<ul class="cbp_tmtimeline">
+					<li>
+						<div class="cbp_tmlabel">
+							<h2 id="boxoffice">Cloud-Sing (web网易云)</h2>
+							<time>2017.03</time>
+							<img src="/img/cloud-sing.jpg">
+							<ul>
+								<li>
+									a Netease cloud web demo, front end based on Vue2.0 whole barrel, the background has two versions, the previous version based on Express, after a version based on Koa whole family bucket.
+								</li>
+								<li class="skill">
+									<span><b>JS</b></span>
+									<span class="i-vue"></span>
+									<span class="link"><a target="_blank" href="https://github.com/mickey0524/Cloud-Sing">Try it</a></span>
+								</li>
+							</ul>
+						</div>
+					</li>
+					<li>
+						<div class="cbp_tmlabel">
+							<h2 id="boxoffice">react-ele (web饿了么)</h2>
+							<time>2017.07</time>
+							<img src="/img/ele.jpg">
+							<ul>
+								<li>
+									a Ele web demo，front end based on react, react-router, react-redux...Through the development of this project，i practice react, enrich my technology stack，it can be said to be very happy.
+								</li>
+								<li class="skill">
+									<span><b>JS</b></span>
+									<span class="i-react"></span>
+									<span class="link"><a target="_blank" href="https://github.com/mickey0524/react-ele">Try it</a></span>
+								</li>
+							</ul>
+						</div>
+					</li>
+					<li>
+						<div class="cbp_tmlabel">
+							<h2 id="boxoffice">douban-movie (douban爬虫)</h2>
+							<time>2017.08</time>
+							<img src="/img/douban.png">
+							<ul>
+								<li>
+									a web demo based on python (flask) and react , for data display and data visualization analysis through crawling Douban movies.
+								</li>
+								<li class="skill">
+									<span><b>JS</b></span>
+									<span class="i-react"></span>
+									<span class="link"><a target="_blank" href="https://github.com/mickey0524/douban-movie">Try it</a></span>
+								</li>
+							</ul>
+						</div>
+					</li>
+					<li>
+						<div class="cbp_tmlabel">
+							<h2 id="boxoffice">today game</h2>
+							<time>2017.09</time>
+							<img src="/img/game.jpg">
+							<ul>
+								<li>
+									a web for today game in toutiao app.
+								</li>
+								<li class="skill">
+									<span><b>JS</b></span>
+									<span class="link"><a target="_blank" href="https://ic.snssdk.com/game_channel/joke_essay">Try it</a></span>
+								</li>
+							</ul>
+						</div>
+					</li>
+					<li>
+						<div class="cbp_tmlabel">
+							<h2 id="boxoffice">react native game</h2>
+							<time>2017.12</time>
+							<img src="/img/react-native-game.jpg">
+							<ul>
+								<li>
+ 									a game distribution app based on react-native.
+								</li>
+								<li class="skill">
+								<span>
+									<b>JS</b>
+								</span>
+								<span class="i-react"></span>
+									<span class="link">
+										<a target="_blank" href="https://github.com/mickey0524/game">Try it</a>
+									</span>
+								</li>
+							</ul>
+						</div>
+					</li>
+					{% if site.duoshuo_username %}
+					<li>
+						<div class="cbp_tmlabel">
+			                <!-- 多说评论框 start -->
+			                <div class="comment">
+			                    <div class="ds-thread"
+									data-thread-key="{{site.duoshuo_username}}/portfolio"
+			                        data-title="{{page.title}}"
+			                        data-url="{{site.url}}{{site.baseurl}}{{page.url}}" >
+			                    </div>
+			                </div>
+			                <!-- 多说评论框 end -->
+						</div>
+					</li>
+					{% endif %}
+				</ul>
+			</div>
+		</div>
+		{% if site.duoshuo_username %}
+		<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+		<script type="text/javascript">
+		    // dynamic User by Hux
+		    var _user = '{{site.duoshuo_username}}';
+
+		    // duoshuo comment query.
+		    var duoshuoQuery = {short_name: _user };
+		    (function() {
+		        var ds = document.createElement('script');
+		        ds.type = 'text/javascript';ds.async = true;
+		        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		        ds.charset = 'UTF-8';
+		        (document.getElementsByTagName('head')[0]
+		         || document.getElementsByTagName('body')[0]).appendChild(ds);
+		    })();
+		</script>
+		<!-- 多说公共JS代码 end -->
+		{% endif %}
+	</body>
+</html>
