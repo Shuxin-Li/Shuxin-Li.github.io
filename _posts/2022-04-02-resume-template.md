@@ -2,7 +2,7 @@
 layout:     post
 title:      "resume-template"
 subtitle:   "makedown简历模板"
-date:       2022-04-04 20:00:00
+date:       2022-04-02 20:00:00
 author:     "xpengkang"
 header-img: "img/home-bg-o.jpg"
 tags:
