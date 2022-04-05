@@ -188,10 +188,10 @@ html{
 	font-size: 90%;
 }
 body{
-	background: #fafafa;
+	background: #ffffff;
 }
 header{
-	background: #232526; /* fallback for old browsers */
+	background: #45c24d; /* fallback for old browsers */
 	background: -webkit-linear-gradient(to left, #232526 , #414345); /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to left, #232526 , #414345); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
