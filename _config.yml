@@ -60,8 +60,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-109496463-1'            # Format: UA-xxxxxx-xx
-ga_domain: mickey0524.github.io
+ga_track_id: ''            # Format: UA-xxxxxx-xx
+ga_domain: xpengkang.github.io
 
 
 
@@ -93,7 +93,7 @@ friends: [
         title: "labuladong",
         href: "https://labuladong.gitee.io/algo/"
     },{
-        title: "cyc2018",
-        href: "http://www.cyc2018.xyz/"
+        title: "learn-cs",
+        href: "https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md/"
     }
 ]
