@@ -1,10 +1,10 @@
 # Site settings
 title: 转码自留地
-SEOTitle: xpk|转码自留地
+SEOTitle: zhuanmaziliudi
 header-img: img/home-bg.jpg
-# email: pkdlmu@163.com
+# email: 
 description: "与你一起发现更大的世界。"
-keyword: "材料转行, 个人网站, 互联网, 后端，Go, Java, Big Data"
+keyword: "材料转行, 互联网, 后端，Go, Java, Big Data"
 url: "https://xpengkang.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -17,8 +17,8 @@ RSS: false
 github_username:    xpengkang
 leetcode_username:  xpengkang
 # leetcode_cn_username:  u/zhuanmaziliudi
-linkedin_username:  kang-peng-166848198
-# bilibili_username:  490052151?spm_id_from=333.1007.0.0
+# linkedin_username:  
+bilibili_username:  490052151?spm_id_from=333.1007.0.0
 
 
 
@@ -67,7 +67,7 @@ ga_domain: xpengkang.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "学学代码<br>写写故事"
+sidebar-about-description: "学编程<br>写故事<br>录视频"
 sidebar-avatar: /img/sidebar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
