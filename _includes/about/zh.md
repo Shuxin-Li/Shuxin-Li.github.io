@@ -7,12 +7,11 @@
 <br>
 
 我的个人社交账号
-📕[]
 
-<!-- - [知乎](https://www.zhihu.com/people/peng-kang-16-21) -->
+- [知乎](https://www.zhihu.com/people/peng-kang-16-21)
 
 <!-- 找不到知乎的logo svg或者icon 代码，先用img 嵌入的方法代替 -->
-- [<img src="/_includes/about/zhihulogo.png" width = "21.33" height = "21.33"/>](https://www.zhihu.com/people/peng-kang-16-21)
+<!-- - [<img src="/_includes/about/zhihulogo.png" width = "21.33" height = "21.33"/>](https://www.zhihu.com/people/peng-kang-16-21) -->
 
 
 
@@ -28,8 +27,8 @@
 
 
 ## 🧭 **Life Attitude**
->不躺平，有目标去奋斗
->不内卷，防止自我剥削
+不躺平，有目标去奋斗<br>
+不内卷，防止自我剥削
 
 
 
