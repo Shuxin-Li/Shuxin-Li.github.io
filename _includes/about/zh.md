@@ -1,16 +1,15 @@
-<div align=center> 
-
 ## 👨🏻‍💻  **Personal Home**
 
 您好，恭喜你发现宝藏，这里是转码自留地，记录转码学习笔记📗、算法题解（待整理好更新）、技术博客以及生活体验！<br>
-我的视频题解：
 
 <!-- icon 来源于https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job -->
-[<img src="https://img.icons8.com/color/29/000000/bilibili.png"/>](https://b23.tv/WWrubKh)
-[<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>](https://leetcode-cn.com/u/zhuanmaziliudi/) 
+<li>leetcode 笔记
+<a target="_blank" href="https://leetcode-cn.com/u/zhuanmaziliudi/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/> </a>
+</li>
 
-
-
+<li>部分题解视频
+<a target="_blank" href="https://b23.tv/WWrubKh"><img src="https://img.icons8.com/color/29/000000/bilibili.png"/></a>
+</li>
 ## ⚓ **About me**
 
 曾经学轮机🚢，航行过太平洋印度洋<br>
@@ -24,5 +23,5 @@
 不躺平，有目标去奋斗<br>
 不内卷，防止自我剥削
 
-</div>
+
 
