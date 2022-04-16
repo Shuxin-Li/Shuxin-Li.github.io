@@ -11,7 +11,7 @@ tags:
 
 # Resume
 
-> I'm a software engineer based in shanghai 🌊 with 10 years of experience in the software industry.
+> I'm a software engineer based in shanghai 🌊 with xx years of experience in the software industry.
 > 
 
 # ☎️ Contact information
@@ -40,7 +40,7 @@ Your description here
 
 ### Javascript ⭐️⭐️⭐️⭐️
 
-My "native" programming language, I've worked with it for over 6 years. I've used it in the front-end with React and Redux, in the back-end for APIs with Node, Express and Hapi.js and for testing automation using Mocha and later on, Jest.
+xxxxxx
 
 ---
 
@@ -54,7 +54,7 @@ Native speaker
 
 # 📜 Articles and Talks
 
-- [temp](xpengkang.github.io)
+- [blog](xpengkang.github.io)
 
 ---
 
@@ -64,4 +64,4 @@ Native speaker
 
 *2017 (unfinished due to Relocation)*
 
-ORT - Buenos Aires
+ORT - xxxx
