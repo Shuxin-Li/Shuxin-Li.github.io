@@ -140,7 +140,7 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
-                            <!-- 新增bilibili -->
+                            <!-- 新增bilibili
                             {% if site.bilibili_username %}
                             <li>
                                 <a target="_blank" href="https://space.bilibili.com/{{ site.bilibili_username }}">
@@ -201,7 +201,7 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
-                            <!-- 新增中文leetcode -->
+                            新增中文leetcode
                             {% if site.leetcode_cn_username %}
                             <li>
                                 <a target="_blank" href="https://leetcode-cn.com/{{ site.leetcode_username }}">
@@ -211,7 +211,93 @@ layout: default
                                     </span>
                                 </a>
                             </li>
-                            {% endif %}
+                            {% endif %} -->
+
+                            <!-- 新增bilibili -->
+                    {% if site.bilibili_username %}
+                    <li>
+
+                        <a target="_blank" href="https://space.bilibili.com/{{ site.bilibili_username }}" style="cursor:pointer">
+                            <!-- <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-stack-1x fa-inverse">bili</i> -->
+
+                                <!-- <i class="fa fa-bilibili fa-stack-1x fa-inverse"></i> -->
+                            <!-- </span> -->
+                                <span>
+                                    <img src="https://img.icons8.com/color/35/000000/bilibili.png"/></a>
+                                </span>
+                           
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if site.weibo_username %}
+                    <li>
+                        <a target="_blank" href="http://weibo.com/{{ site.weibo_username }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
+
+
+                    {% if site.facebook_username %}
+                    <li>
+                        <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if site.github_username %}
+                    <li>
+                        <a target="_blank" href="https://github.com/{{ site.github_username }}" style="cursor:pointer">
+                            <!-- <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span> -->
+                            <img src="https://img.icons8.com/material-outlined/30/000000/github.png"/>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if site.linkedin_username %}
+                    <li>
+                        <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if site.leetcode_username %}
+                    <li>
+                        <a target="_blank" href="https://leetcode.com/{{ site.leetcode_username }}" style="cursor:pointer">
+                            <!-- <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-code fa-stack-1x fa-inverse"></i>
+                            </span> -->
+                            <img src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/33/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-fresh-tal-revivo.png"/>
+
+                        </a>
+                    </li>
+                    {% endif %}
+                    <!-- 新增中文leetcode -->
+                    {% if site.leetcode_cn_username %}
+                    <li>
+                        <a target="_blank" href="https://leetcode-cn.com/{{ site.leetcode_cn_username }}" style="cursor:pointer">
+                            <!-- <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-code fa-stack-1x fa-inverse"></i>
+                            </span> -->
+                            <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/26/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/> 
+                        </a>
+                    </li>
+                    {% endif %}
                         </ul>
                     </div>
                 </section>
