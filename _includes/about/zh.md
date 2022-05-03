@@ -9,9 +9,7 @@
 <a target="_blank" href="https://b23.tv/WWrubKh"><img src="https://img.icons8.com/color/29/000000/bilibili.png"/></a>
 
 
-
-联系：pkldmu@163.com
-
+联系方式：pkldmu@163.com
 
 
 
@@ -27,6 +25,9 @@
 ## 🧭 **Life Attitude**
 不躺平，有目标去奋斗<br>
 不内卷，防止自我剥削 -->
+
+
+
 
 
 
