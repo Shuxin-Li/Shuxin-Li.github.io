@@ -6,10 +6,9 @@
 
 <a target="_blank" href="https://leetcode-cn.com/u/zhuanmaziliudi/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
 
-<a target="_blank" href="https://b23.tv/WWrubKh"><img src="https://img.icons8.com/color/29/000000/bilibili.png"/></a>
 
 
-联系方式：pkldmu@163.com
+联系方式：xpengkang@outlook.com
 
 
 
