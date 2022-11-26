@@ -4,7 +4,7 @@ title:      "Shopee layoff and restart"
 subtitle:   "不记录，就会忘记"
 date:       2022-11-01 08:00:00
 author:     "xpengkang"
-header-img: "img/2022-11/bootcamp.jpeg"
+header-img: "img/2022-11/bootcamp.jpg"
 tags:
 - 求职
 ---

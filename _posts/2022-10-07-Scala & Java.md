@@ -2,7 +2,7 @@
 layout:     post
 title:      "Scala & Java"
 subtitle:   "一些对比"
-date:       2022-10-01 08:00:00
+date:       2022-10-07 08:00:00
 author:     "xpengkang"
 header-img:
 tags:
