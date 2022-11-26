@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "shopee layoff and restart"
+title:      "Shopee layoff and restart"
 subtitle:   "不记录，就会忘记"
 date:       2022-11-01 08:00:00
 author:     "xpengkang"
-header-img:
+header-img: "img/2022-11/bootcamp.jpeg"
 tags:
-- 工作
+- 求职
 ---
 
 shopee 919大裁员，裁员比例30%以上的部门有food,o2o,dpls，我所在的部门也经历了一轮大优化。
